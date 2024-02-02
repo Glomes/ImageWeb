@@ -1,0 +1,8 @@
+C:\Users\lucas\Documents\Projetos files\projetoImagegithub\ImageCopyWeb.exe
+C:\Users\lucas\Documents\Projetos files\projetoImagegithub\ImageCopyWeb.dll
+C:\Users\lucas\Documents\Projetos files\projetoImagegithub\ImageCopyWeb.deps.json
+C:\Users\lucas\Documents\Projetos files\projetoImagegithub\ImageCopyWeb.runtimeconfig.json
+C:\Users\lucas\Documents\Projetos files\projetoImagegithub\ImageCopyWeb.pdb
+C:\Users\lucas\Documents\Projetos files\projetoImagegithub\MaterialDesignColors.dll
+C:\Users\lucas\Documents\Projetos files\projetoImagegithub\MaterialDesignThemes.Wpf.dll
+C:\Users\lucas\Documents\Projetos files\projetoImagegithub\Microsoft.Xaml.Behaviors.dll
